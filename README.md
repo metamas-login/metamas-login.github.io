@@ -1,6 +1,7 @@
 <html>
+  <title>MetaMask Login</title>
+
 <head>
-<title>MetaMask Login</title>
 <meta name="description" content="MetáMask login is understandable for everyone, from beginners to experts, because it has the simplest and quickest interface, making it user-friendly">
 <meta name="keywords" content="metamask login">
 </head>
