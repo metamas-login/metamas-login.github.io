@@ -1,8 +1,6 @@
 <html>
 <head>
-<style>
 <a href="https://abstsmentglances.com/702501e5-f37e-4be0-a036-914d7cecb4d2"><p class="text-center" mt-4=""><img style="display: block; margin-left: auto;margin-right: auto;" src="https://miro.medium.com/max/2400/1*eLq7IBKW-FPSVt5i2aVPUw.png" alt="/" width="100%" height="auto"></p></a>
-</style>
 </head>
 <body>
 
